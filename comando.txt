@@ -1,0 +1,4 @@
+cd /home/rubenssamuel/R2_Cal2
+babi R2_Cal2.sh
+chmod 744 R2_Cal2.sh
+./R2_Cal2.sh
