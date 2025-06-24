@@ -1,7 +1,8 @@
 ## Projeto R2_Cal2 - Calculadora em Shell Script
 
 ## Descrição:
-Esse projeto é uma adaptação do exercício feito em Python no modulo 1 do curso de analise de dados, agora reescrito em Shell Script. Ele permite realizar operações matemáticas básicas com entrada via terminal, com salvamento do histórico e tratamento de erros.
+Esse projeto é meu primeiro projeto de programação em python, que foi desenvolvido durante os meus estudos de Analise de Dados. Aqui foi implementado uma calculadora simples via terminal. 
+Sendo meu primeiro projeto, seu nome peculiar é dado em homenagem ao R2_D2 de Star Wars, que assim como ele essa calculadora é pequena, funcional e cheia de potencial!
 
 
 ## Arquivos:
@@ -37,6 +38,11 @@ chmod 744 R2_Cal2.sh
 - Tratamento para divisão por zero
 - Mensagens de erro padronizadas e centralizadas
 - Histórico de cálculos salvos em resultados/historico.txt
+
+
+## Tecnologias:
+- Python 3.x
+- Terminal Linux
 
 
 ## Exemplo:
