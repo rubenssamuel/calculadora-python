@@ -1,7 +1,7 @@
 ## Projeto R2_Cal2 - Calculadora em Shell Script
 
 ## Descrição:
-Esse projeto é meu primeiro projeto de programação em python, que foi desenvolvido durante os meus estudos de Analise de Dados. Aqui foi implementado uma calculadora simples via terminal. 
+Este é meu primeiro projeto de programação em python, que foi desenvolvido durante os meus estudos de Analise de Dados. Aqui foi implementado uma calculadora simples via terminal. 
 Sendo meu primeiro projeto, seu nome peculiar é dado em homenagem ao R2_D2 de Star Wars, que assim como ele essa calculadora é pequena, funcional e cheia de potencial!
 
 
